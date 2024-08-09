@@ -6,6 +6,7 @@ Claremont Web Server (CWS) is an open source web server software that the Clarem
 - **tesfaasmara.com**
 - **ourplaceprod.com**
 - A database for the **Pomona Research in Mathematic Experience**
+- A database for the **Claremont Alumni Network**
 
 
 ### How to Use:
